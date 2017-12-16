@@ -6,6 +6,11 @@
 
 body {
   padding-top: 54px;
+  hyphens: auto;
+  -moz-hyphens: auto;
+  -o-hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
 }
 
 @media (min-width: 992px) {
