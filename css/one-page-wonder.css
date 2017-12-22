@@ -27,6 +27,10 @@ header.masthead {
   -o-background-size: cover;
 }
 
+.footer-link {
+  color: rgba(255,255,255,.5);
+}
+
 header.masthead>.overlay {
   padding: 5rem 0;
   text-align: center;
